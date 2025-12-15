@@ -86,7 +86,7 @@ const LandingPageContent = ({ onLoginClick, onBlogClick, strategySectionRef }: a
           variants={heroVariants}
           className="text-4xl xs:text-5xl sm:text-6xl md:text-8xl font-bold text-center bg-clip-text text-transparent bg-gradient-to-b from-neutral-50 to-neutral-400 bg-opacity-50 px-2"
         >
-          SOCCEO
+          SOCCEO2
         </motion.h1>
 
         <motion.p
