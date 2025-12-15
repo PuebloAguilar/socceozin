@@ -1,11 +1,11 @@
 
 import React, { useState } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
-import { DashboardPage } from "../app/core-components/ui/dashboard-with-collapsible-sidebar";
-import { LoginPage } from "../app/core-components/pages/LoginPage";
-import { OnboardingPage } from "../app/core-components/pages/OnboardingPage";
-import { PersonalizingLoader } from '../app/core-components/pages/PersonalizingLoader';
-import { Meta, MetaStatus, AreaType, KeyResult } from './types';
+import { DashboardPage } from "./core-components/ui/dashboard-with-collapsible-sidebar";
+import { LoginPage } from "./core-components/pages/LoginPage";
+import { OnboardingPage } from "./core-components/pages/OnboardingPage";
+import { PersonalizingLoader } from './core-components/pages/PersonalizingLoader';
+import { Meta, MetaStatus, AreaType, KeyResult } from '../../types';
 
 type AppView = 'login' | 'onboarding' | 'personalizing' | 'dashboard';
 
