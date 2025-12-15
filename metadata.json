@@ -1,5 +1,5 @@
 {
-  "name": "Socceo",
-  "description": "A visually appealing web application showcasing a subtle and effective spotlight effect using React, Motion, and Tailwind CSS.",
+  "name": "Copy of Sócio core",
+  "description": "Uma aplicação React que demonstra um painel de controle com uma barra lateral expansível, estilizado com Tailwind CSS e construído com TypeScript.",
   "requestFramePermissions": []
 }
